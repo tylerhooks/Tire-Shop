@@ -68,7 +68,7 @@ a:hover {
   padding: 140px 0;
 }
 .navbar-default .navbar-nav > li > a:hover {
-  color: #02bdd5;
+  color: #F29D06 ;
 }
 .navbar.navbar-default {
   border: 0;
@@ -124,7 +124,7 @@ a:hover {
   text-transform: uppercase;
 }
 #top-bar .main-menu li a:hover {
-  color: #02bdd5;
+  color: #F29D06 ;
 }
 .navbar-custom .nav li > a {
   position: relative;
@@ -146,13 +146,13 @@ a:hover {
   background-attachment: fixed;
   padding: 230px 0;
   color: #fff;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 8px rgba(0, 0, 0, .3);
   position: relative;
 }
 #hero-area:before {
   content: '';
   z-index: 9;
-  background: rgba(255, 255, 255, 0.78);
+  background: rgba(255, 255, 255, 0.50); /* hey tyler 1 solid white 0 is completly clear*/
   position: absolute;
   top: 0;
   left: 0;
@@ -195,7 +195,7 @@ a:hover {
   border-radius: 0;
 }
 #call-to-action {
-  background: #02bdd5;
+  background: #F29D06 ;
   background-size: cover;
   background-attachment: fixed;
   padding: 80px 0;
@@ -221,7 +221,7 @@ a:hover {
 #call-to-action .block .btn-contact {
   background: #fff;
   border: none;
-  color: #02bdd5;
+  color: #F29D06 ;
   padding: 16px 35px;
   margin-top: 20px;
   font-size: 12px;
@@ -370,7 +370,7 @@ figure figcaption h4 {
   margin: 0;
 }
 figure figcaption h4 a {
-  color: #02bdd5;
+  color: #F29D06 ;
 }
 figure figcaption p {
   font-size: 14px;
@@ -403,7 +403,7 @@ figure figcaption p {
 #feature .icon {
   text-decoration: none;
   color: #fff;
-  background-color: #02bdd5;
+  background-color: #F29D06 ;
   height: 100px;
   text-align: center;
   width: 100px;
@@ -426,10 +426,10 @@ figure figcaption p {
   margin-top: 35px;
   color: #fff;
   outline: none;
-  background: #02bdd5;
+  background: #F29D06 ;
 }
 #contact-section .contact-form .btn-send:hover {
-  border: 1px solid #02bdd5;
+  border: 1px solid #F29D06 ;
 }
 #contact-section input {
   display: block;
@@ -479,7 +479,7 @@ figure figcaption p {
 #contact-section .email i,
 #contact-section .phone i {
   font-size: 45px;
-  color: #02bdd5;
+  color: #F29D06 ;
 }
 #contact-section .address h5,
 #contact-section .email h5,
@@ -506,7 +506,7 @@ figure figcaption p {
   margin-top: 10px;
 }
 #footer .copyright a {
-  color: #02bdd5;
+  color: #F29D06 ;
 }
 #footer .social {
   text-align: right;
@@ -516,12 +516,22 @@ figure figcaption p {
   display: inline-block;
   margin-right: 15px;
 }
-#footer .social li a {
+#footer a {
   font-size: 22px;
-  color: #02bdd5;
+  color: #F29D0A ;
 }
+
+#footer .Facebook:hover {
+  color:#3b5998;
+}
+
+#footer .Twitter:hover {
+  color:#00aced;
+}
+
+
 .cd-headline.slide .cd-words-wrapper {
-  color: #02bdd5;
+  color: #F29D06 ;
 }
 ul.social-icons {
   height: auto;
@@ -547,7 +557,7 @@ ul.social-icons li {
   background-size: cover;
   padding: 120px 0 25px 0;
   position: relative;
-  background: #02bdd5;
+  background: #F29D06 ;
   color: #fff;
 }
 .global-page-header h2 {
@@ -580,7 +590,7 @@ ul.social-icons li {
 }
 #product-showcase-banner .block h2 {
   font-size: 40px;
-  color: #02bdd5;
+  color: #F29D06 ;
   margin-bottom: 20px;
   margin-top: 0;
 }
@@ -698,7 +708,7 @@ ul.social-icons li {
 }
 #related-items .block h4 span {
   float: right;
-  color: #02bdd5;
+  color: #F29D06 ;
 }
 #related-items .block .img-overly {
   position: relative;
@@ -734,7 +744,7 @@ ul.social-icons li {
 }
 .service-page .service-parts .block i {
   font-size: 35px;
-  color: #02bdd5;
+  color: #F29D06 ;
 }
 .service-page .service-parts .block p {
   padding: 0 8px;
@@ -792,7 +802,7 @@ ul.social-icons li {
 }
 .wrapper_404 h1 {
   font-size: 200px;
-  color: #02bdd5;
+  color: #F29D06 ;
   line-height: 1;
 }
 .wrapper_404 h2 {
@@ -840,7 +850,7 @@ ul.social-icons li {
   font-size: 13px;
 }
 .team-member h3 {
-  color: #02bdd5;
+  color: #F29D06 ;
   margin-bottom: 0;
   font-size: 20px;
 }
@@ -848,7 +858,7 @@ ul.social-icons li {
   font-size: 14px;
 }
 .team-member .social-icons a {
-  background: #02bdd5;
+  background: #F29D06 ;
   color: #fff;
   padding: 4px 8px;
   display: inline-block;
@@ -870,7 +880,7 @@ ul.social-icons li {
   font-weight: 300;
 }
 .about-feature .about-feature-1 {
-  background: #02bdd5;
+  background: #F29D06 ;
 }
 .about-feature .about-feature-2 {
   background: #00B0C7;
@@ -908,15 +918,15 @@ article {
   margin-top: 20px;
 }
 .blog-content .btn-details {
-  color: #02bdd5;
+  color: #F29D06 ;
   padding: 0;
-  background: #02bdd5;
+  background: #F29D06 ;
   color: #fff;
   padding: 8px 18px;
   border-radius: 0;
   margin-top: 15px;
   border: 1px solid #fff;
-  box-shadow: 0px 0px 0px 1px #02bdd5;
+  box-shadow: 0px 0px 0px 1px #F29D06 ;
 }
 .blog-post-image {
   margin-top: 30px;
@@ -979,7 +989,7 @@ article {
   font-size: 15px;
 }
 .sidebar .recent-post ul li a:hover {
-  color: #02bdd5;
+  color: #F29D06 ;
 }
 .sidebar .recent-post time {
   font-weight: 300;
@@ -1020,7 +1030,7 @@ article {
   padding: 30px 20px;
 }
 .single-post .media .media-body a {
-  color: #02bdd5;
+  color: #F29D06 ;
   font-size: 12px;
 }
 .single-post .media .media {
@@ -1040,7 +1050,7 @@ article {
   border-radius: 0;
 }
 .single-post .post-comment .btn-send {
-  background: #02bdd5;
+  background: #F29D06 ;
   color: #fff;
   border-radius: 0;
 }
@@ -1051,7 +1061,7 @@ article {
 .social-share a {
   font-size: 20px;
   color: #fff;
-  background: #02bdd5;
+  background: #F29D06 ;
   padding: 4px 10px;
   display: inline-block;
 }
@@ -1087,5 +1097,7 @@ article {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .logo {
-font-family: 'Oswald', sans-serif;
+  color: #F29D06;
+  font-family: 'Oswald', sans-serif;
+  margin-top: -7px;
 }
