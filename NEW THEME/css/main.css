@@ -152,7 +152,7 @@ a:hover {
 #hero-area:before {
   content: '';
   z-index: 9;
-  background: rgba(255, 255, 255, 0.50); /* hey tyler 1 solid white 0 is completly clear*/
+  background: rgba(255, 255, 255, 0); /* hey tyler 1 solid white 0 is completly clear*/
   position: absolute;
   top: 0;
   left: 0;
