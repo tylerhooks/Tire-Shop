@@ -511,7 +511,6 @@ figure figcaption p {
 #footer .social {
   text-align: right;
   margin-bottom: 0;
-  margin-top: -25px;
 }
 #footer .social li {
   display: inline-block;
