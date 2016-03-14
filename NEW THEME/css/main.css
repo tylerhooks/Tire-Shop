@@ -54,12 +54,14 @@ a:hover {
   font-weight: 600;
   margin-bottom: 18px;
   text-transform: uppercase;
+  text-align:center; 
 }
 .subtitle-des {
   color: #727272;
   font-size: 14px;
   margin-bottom: 35px;
   font-weight: 300;
+  text-align:center; 
 }
 .pages {
   padding: 80px 0 40px;
